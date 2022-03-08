@@ -1,0 +1,760 @@
+/* Most of the Low resulations Mobile Devices */
+@media (min-width: 279px) and (max-width: 320px) {
+  /* code start */
+  .btn {
+    display: block !important;
+    padding: 8px 0px !important;
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+  .navbar-light .navbar-nav .nav-link:hover,
+  .navbar-light .navbar-nav .nav-link:focus,
+  .navbar-light .navbar-nav .nav-link.active {
+    background: url(../images/arrow.png) left bottom no-repeat;
+  }
+  .banner {
+    padding: 20px 0px;
+  }
+  .banner h5 {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .banner h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .banner p {
+    font-size: 12px;
+    line-height: 16px;
+    width: 100%;
+  }
+  .banner .button-group {
+    padding: 0px;
+  }
+  .button-group .btn-primary {
+    margin: 0px 0px 10px;
+  }
+  .feature {
+    padding: 20px 0px;
+  }
+  .title {
+    padding: 5px 0px;
+  }
+  .title h5 {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0px;
+  }
+  .title h2 {
+    font-size: 23px;
+    line-height: 27px;
+    margin: 0px;
+  }
+  .inner-feature {
+    padding: 10px 50px;
+  }
+  .inner-feature .feature-icons {
+    margin: 0px auto 0px;
+  }
+  .inner-feature h4 {
+    font-size: 22px;
+    line-height: 28px;
+    margin: 5px 0px 5px;
+  }
+  .inner-feature p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .about-long {
+    padding: 20px 0px;
+  }
+  .about-long .title {
+    text-align: center;
+    margin: 5px 0px;
+  }
+  .about-long p {
+    font-size: 12px;
+    line-height: 16px;
+    width: 100%;
+    text-align: justify;
+  }
+  .about-long ul {
+    margin: 0px;
+  }
+  .about-long ul li {
+    margin: 0px;
+  }
+  .about-long ul li i {
+    margin: 0px 15px 0px 0px;
+  }
+  .about-sort {
+    padding: 20px 0px;
+  }
+  .about-sort .title {
+    margin: 0px;
+    text-align: center;
+  }
+  .about-sort p {
+    width: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+  }
+  .testimonial {
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .testimonial .owl-carousel .item h4 {
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0px 0px 15px;
+  }
+  .testimonial .owl-carousel .item p {
+    font-size: 12px;
+    margin: 10px 0px 0px;
+  }
+  .testimonial .owl-carousel .item h6 {
+    font-size: 14px;
+  }
+  .eyecather {
+    padding: 20px 0px;
+  }
+  .eyecather h2 {
+    font-size: 23px;
+    line-height: 27px;
+    margin: 0px;
+  }
+  .eyecather .button-group {
+    text-align: center;
+    margin: 20px 0px 10px;
+  }
+  .eyecather .button-group .btn-primary {
+    margin: 10px 0px 0px 0px;
+  }
+  .price-plans {
+    padding: 20px 0px;
+  }
+  .price-plans .price {
+    padding: 20px 0px;
+    margin: 20px 0px;
+  }
+  .price .price-head h4 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .price .inner-price {
+    padding: 20px 0px;
+  }
+  .price .inner-price h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .price .price-content {
+    width: 100%;
+    padding: 20px 60px;
+  }
+  .price .price-content p {
+    margin: 0px auto 30px;
+    text-align: justify;
+  }
+  .contact-us {
+    padding: 0px 0px 20px;
+  }
+  .contact-us .inner-contact {
+    padding: 0px 0px 20px;
+  }
+  .contact-us .inner-contact i {
+    margin: 0px;
+  }
+  .contact-us .inner-contact p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .main-form {
+    margin: 0px 0px -75px;
+    padding: 20px;
+  }
+  .main-form .text-right {
+    text-align: center;
+    padding: 10px 0px 0px;
+  }
+  .main-form .btn-primary {
+    margin: 0px;
+  }
+  .main-form .form-control {
+    padding: 4px 0px;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .footer {
+    padding: 20px 0px;
+  }
+  .footer .inner-footer .fa {
+    font-size: 18px;
+    line-height: 18px;
+    margin: 0px 5px 10px;
+  }
+  .footer .inner-footer p {
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+    margin: 0px;
+  }
+  /* code end */
+}
+/* Most of the Mobile Devices */
+@media (min-width: 321px) and (max-width: 480px) {
+  /* code start */
+  .btn {
+    display: block !important;
+  }
+  .navbar-light .navbar-nav .nav-link:hover,
+  .navbar-light .navbar-nav .nav-link:focus,
+  .navbar-light .navbar-nav .nav-link.active {
+    background: url(../images/arrow.png) left bottom no-repeat;
+  }
+  .banner {
+    padding: 20px 0px;
+  }
+  .banner h5 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .banner h1 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .banner p {
+    font-size: 14px;
+    line-height: 20px;
+    width: 100%;
+  }
+  .banner .button-group {
+    padding: 10px 0px 0px;
+  }
+  .button-group .btn-primary {
+    margin: 0px 10px 30px 0px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .feature {
+    padding: 30px 0px;
+  }
+  .title {
+    padding: 10px 0px;
+  }
+  .title h5 {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px;
+  }
+  .title h2 {
+    font-size: 30px;
+    line-height: 36px;
+    margin: 0px;
+  }
+  .inner-feature {
+    padding: 10px 50px;
+  }
+  .inner-feature h4 {
+    font-size: 22px;
+    line-height: 28px;
+    margin: 5px 0px 5px;
+  }
+  .inner-feature p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .about-long {
+    padding: 30px 0px;
+  }
+  .about-long .title {
+    text-align: center;
+    margin: 10px 0px;
+  }
+  .about-long p {
+    font-size: 14px;
+    line-height: 20px;
+    width: 100%;
+    text-align: justify;
+  }
+  .about-long ul {
+    padding: 0px;
+  }
+  .about-long ul li {
+    margin: 0px;
+  }
+  .about-long ul li i {
+    margin: 0px 15px 0px 0px;
+  }
+  .about-sort {
+    padding: 30px 0px;
+  }
+  .about-sort .title {
+    margin: 0px;
+    text-align: center;
+  }
+  .about-sort p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+  }
+  .testimonial {
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .testimonial .owl-carousel .item h4 {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0px 0px 20px;
+  }
+  .testimonial .owl-carousel .item p {
+    font-size: 14px;
+    margin: 10px 0px 0px;
+  }
+  .testimonial .owl-carousel .item h6 {
+    font-size: 14px;
+  }
+  .eyecather {
+    width: 30px 0px;
+  }
+  .eyecather h2 {
+    font-size: 30px;
+    line-height: 36px;
+    margin: 10px 0px;
+  }
+  .eyecather .button-group {
+    text-align: center;
+    margin: 20px 0px;
+  }
+  .eyecather .button-group .btn-primary {
+    margin: 20px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .eyecather .button-group .btn-light {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .price-plans {
+    padding: 30px 0px;
+  }
+  .price-plans .price {
+    padding: 20px 0px;
+    margin: 20px 0px;
+  }
+  .price .price-head h4 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .price .inner-price {
+    padding: 20px 0px;
+  }
+  .price .inner-price h1 {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .price .price-content {
+    width: 100%;
+    padding: 20px 60px;
+  }
+  .price .price-content p {
+    padding: 50px;
+    margin: 0px;
+    text-align: justify;
+  }
+  .price .price-content .btn-primary {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .contact-us {
+    padding: 0px 0px 30px;
+  }
+  .contact-us .inner-contact {
+    padding: 0px 0px 30px;
+  }
+  .contact-us .inner-contact i {
+    margin: 0px;
+  }
+  .contact-us .inner-contact p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .main-form {
+    margin: 0px 0px -75px;
+    padding: 20px;
+  }
+  .main-form .text-right {
+    text-align: center;
+    padding: 10px 0px 0px;
+  }
+  .main-form .btn-primary {
+    margin: 0px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .main-form .btn-light {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .footer {
+    padding: 30px 0px;
+  }
+  .footer .inner-footer .fa {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0px 5px 10px;
+  }
+  .footer .inner-footer p {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    margin: 0px;
+  }
+  /* code end */
+}
+/* Most of the Low resulations Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+  /* code start */
+  .navbar-light .navbar-nav .nav-link:hover,
+  .navbar-light .navbar-nav .nav-link:focus,
+  .navbar-light .navbar-nav .nav-link.active {
+    background: url(../images/arrow.png) left bottom no-repeat;
+  }
+  .banner {
+    padding: 80px 0px;
+  }
+  .banner h5 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .banner h1 {
+    font-size: 42px;
+    line-height: 50px;
+  }
+  .banner p {
+    font-size: 16px;
+    line-height: 24px;
+    width: 83%;
+  }
+  .banner .button-group {
+    padding: 10px 0px 0px;
+  }
+  .button-group .btn-primary {
+    margin: 0px 20px 0px;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 15px 50px;
+  }
+  .button-group .btn-light {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 15px 50px;
+  }
+  .feature {
+    padding: 60px 0px;
+  }
+  .title {
+    padding: 0px 0px 40px;
+  }
+  .title h5 {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px;
+  }
+  .title h2 {
+    font-size: 36px;
+    line-height: 44px;
+    margin: 0px;
+  }
+  .inner-feature {
+    padding: 20px 160px;
+  }
+  .inner-feature h4 {
+    font-size: 22px;
+    line-height: 28px;
+    margin: 10px 0px;
+  }
+  .inner-feature p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .about-long {
+    padding: 60px 0px;
+  }
+  .about-long .title {
+    text-align: center;
+    margin: 10px 0px;
+  }
+  .about-long p {
+    font-size: 16px;
+    line-height: 24px;
+    width: 100%;
+    text-align: justify;
+  }
+  .about-long ul {
+    padding: 0px;
+  }
+  .about-long ul li {
+    margin: 0px;
+  }
+  .about-long ul li i {
+    margin: 0px 18px 0px 0px;
+  }
+  .about-sort {
+    padding: 60px 0px;
+  }
+  .about-sort .title {
+    margin: 0px;
+    text-align: center;
+  }
+  .about-sort p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+  }
+  .testimonial {
+    width: 100%;
+    padding: 60px 0px;
+  }
+  .testimonial .owl-carousel .item h4 {
+    font-size: 22px;
+    line-height: 28px;
+    margin: 0px 0px 20px;
+  }
+  .testimonial .owl-carousel .item p {
+    font-size: 16px;
+    margin: 10px 0px 0px;
+  }
+  .testimonial .owl-carousel .item h6 {
+    font-size: 16px;
+  }
+  .eyecather {
+    width: 30px 0px;
+  }
+  .eyecather h2 {
+    font-size: 36px;
+    line-height: 44px;
+    margin: 10px 0px;
+  }
+  .eyecather .button-group {
+    text-align: center;
+    margin: 20px 0px;
+  }
+  .price-plans {
+    padding: 60px 0px;
+  }
+  .price-plans .price {
+    padding: 20px 0px;
+    margin: 20px 0px;
+  }
+  .price .price-head h4 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .price .inner-price {
+    padding: 20px 0px;
+  }
+  .price .inner-price h1 {
+    font-size: 42px;
+    line-height: 50px;
+  }
+  .price .price-content {
+    width: 100%;
+    padding: 20px 160px;
+  }
+  .price .price-content p {
+    margin: 0px auto 30px;
+  }
+  .contact-us {
+    padding: 0px 0px 60px;
+  }
+  .contact-us .inner-contact {
+    padding: 0px 0px 30px;
+  }
+  .contact-us .inner-contact i {
+    margin: 0px;
+  }
+  .contact-us .inner-contact p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .main-form {
+    margin: 0px 0px -75px;
+    padding: 20px;
+  }
+  .main-form .text-right {
+    text-align: center;
+    padding: 10px 0px 0px;
+  }
+  .main-form .btn-primary {
+    margin: 0px;
+  }
+  .footer {
+    padding: 40px 0px;
+  }
+  .footer .inner-footer .fa {
+    font-size: 25px;
+    line-height: 25px;
+    margin: 0px 7px 12px;
+  }
+  .footer .inner-footer p {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px;
+  }
+  /* code end */
+}
+/* Most of the Tablets,Ipad, Mini Notebook */
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* code start */
+  .banner {
+    width: 100%;
+    padding: 100px 0px;
+  }
+  .banner h5 {
+    font-size: 17px;
+    line-height: 25px;
+    margin: 0px;
+  }
+  .banner h1 {
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .banner p {
+    font-size: 17px;
+    line-height: 25px;
+    width: 40%;
+  }
+  .btn {
+    font-size: 17px !important;
+    line-height: 25px !important;
+  }
+  .feature {
+    padding: 60px 0px;
+  }
+  .title h5 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .title h2 {
+    font-size: 36px;
+    line-height: 44px;
+    margin: 0px;
+  }
+  .inner-feature {
+    padding: 20px 5px;
+  }
+  .inner-feature h4 {
+    font-size: 22px;
+    line-height: 28px;
+    margin: 0px 0px 15px;
+  }
+  .inner-feature p {
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .about-long {
+    padding: 60px 0px;
+  }
+  .about-long p {
+    width: 89%;
+    margin: 5px 0px;
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .about-sort {
+    padding: 60px 0px;
+  }
+  .about-sort p {
+    font-size: 17px;
+    line-height: 25px;
+    width: 100%;
+  }
+  .testimonial {
+    padding: 60px 0px;
+  }
+  .testimonial .owl-carousel .item h4 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .testimonial .owl-carousel .item p {
+    margin: 20px 20px 0px 20px;
+  }
+  .testimonial .owl-carousel .item h6 {
+    margin: 5px 20px 0px 20px;
+  }
+  .eyecather{
+      padding: 35px 0px;
+  }
+  .eyecather h2{
+    font-size: 36px;
+    line-height: 44px;
+  }
+  .eyecather .button-group .btn-light{
+    font-size: 17px;
+    line-height: 25px;
+    margin: 0px 0px 20px;
+  }
+  .eyecather .button-group .btn-primary{
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .price-plans{
+      padding: 60px 0px;
+  }
+  .price .price-head h4{
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .price .inner-price h1{
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .price .inner-price sup{
+    font-size: 32px;
+}
+.price .price-content {
+    width: 100%;
+    padding: 30px 15px 30px;
+}
+.price .price-content .btn-primary{
+    font-size: 17px;
+    line-height: 25px;
+}
+.contact-us{
+    width: 60px 0px;
+}
+.contact-us .inner-contact p{
+    font-size: 17px;
+    line-height: 25px;
+}
+.main-form {
+    padding: 50px 30px;
+    margin: 40px 0px -75px;
+}
+.main-form .form-control{
+    font-size: 17px;
+    line-height: 25px;
+}
+.main-form .btn-primary{
+    font-size: 17px;
+    line-height: 25px;
+    margin: 10px 0px 0px;
+}
+.footer{
+    padding: 35px 0px;
+}
+.footer .inner-footer .fa{
+    font-size: 24px;
+    line-height: 34px;
+    margin: 0px 10px 10px
+}
+.footer .inner-footer p{
+    font-size: 17px;
+    line-height: 25px;
+}
+  /* code end */
+}
